@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-### `npm app.js`
+### `node app.js`
 
 Application should be running on the 3001 port.
 
